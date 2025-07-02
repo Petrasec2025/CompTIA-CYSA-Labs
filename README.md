@@ -64,6 +64,6 @@ I support students, aspiring SOC analysts, and small teams setting up monitoring
 📩 Email: petrasec.cyber@gmail.com  
 📱 WhatsApp: +971544560861  
 📞 Call: +971503258953  
-🌐 [LinkedIn](https://www.linkedin.com/in/petrascyberexpert)
+🌐 [LinkedIn](https://www.linkedin.com/in/petras-cyber)
 
 > I’m open to cybersecurity internships, analyst roles, and mentoring opportunities.
