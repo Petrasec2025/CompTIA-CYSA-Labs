@@ -1,26 +1,29 @@
-# 🛡️ CompTIA CySA+ Blue Team Labs
-
-Welcome to my **CompTIA CySA+ (Cybersecurity Analyst+) Blue Team Lab Repository**. This project documents hands-on labs and exercises completed as part of my journey to become a professional SOC analyst.
-
-Each folder contains detailed breakdowns of lab objectives, tasks, tools, reflections, and relevance to real-world blue team operations. This repository is part of my continuous training and is guided by expert mentorship.
-
-> 📚 **Goal**: Build a professional lab portfolio showcasing real SOC skills aligned with CySA+ exam domains.
-
----
-
-## 📂 Lab Categories
-
-- `0.0 Introduction-to-CySA+`  
-- `1.0 Leadership and Controls`  
-- `2.0 Assisted Labs`
-
----
-
 # 🛡️ CompTIA CySA+ Labs – Blue Team Analyst Practice
 
 Welcome! I’m **Petras Guilherme Kulyumba**, and this repository is a **comprehensive portfolio of hands-on labs** from the **CompTIA Cybersecurity Analyst (CySA+)** certification.
 
 These labs were completed using **CompTIA's official CertMaster Labs** and **virtual machines**, and reflect **real-world SOC (Security Operations Center) scenarios**.
+
+---
+
+## 🎯 What I’m Going to Learn & Achieve
+
+On completing this course and hands-on training, I will be able to:
+
+- Understand **vulnerability response, handling, and management**  
+- Explore **threat intelligence** and **threat hunting concepts**  
+- Explain essential **system and network architecture** principles  
+- Understand **process improvement in security operations**  
+- Implement **vulnerability scanning methods** effectively  
+- Perform **vulnerability analysis** with various tools  
+- Classify and prioritize **vulnerability information**  
+- Explain and execute **incident response activities**  
+- Demonstrate strong **incident response communication**  
+- Apply multiple tools to **identify malicious activity**  
+- Analyze and interpret **potentially malicious behavior**  
+- Understand and apply **application vulnerability assessments**  
+- Explore **scripting tools and analysis techniques**  
+- Apply **application security** best practices and **mitigation strategies**
 
 ---
 
@@ -35,6 +38,18 @@ These labs were completed using **CompTIA's official CertMaster Labs** and **vir
 - ✅ Passion for cybersecurity and continuous daily practice  
 
 > This repository is built **for career readiness**—not just certification.
+
+---
+
+## 📂 Lab Categories
+
+- `0.0 Introduction-to-CySA+`  
+- `1.0 Leadership and Controls`  
+- `2.0 Assisted Labs`  
+
+Each folder contains detailed breakdowns of lab objectives, tasks, tools, reflections, and relevance to real-world blue team operations. This repository is part of my continuous training and is guided by expert mentorship.
+
+> 📚 **Goal**: Build a professional lab portfolio showcasing real SOC skills aligned with CySA+ exam domains.
 
 ---
 
