@@ -60,3 +60,6 @@
 | Corrective   | PowerShell script to restore file content  | Restore secure state                      |
 | Preventive   | Share permission restriction on CertEnroll | Block unauthorized access                 |
 | Directive    | Legal warning login banner                 | Guide user behavior and ensure compliance |
+----
+<img width="1439" height="685" alt="13" src="https://github.com/user-attachments/assets/1fc3903d-c2cd-4642-ba31-066cf2752219" />
+
